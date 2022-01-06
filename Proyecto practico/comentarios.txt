@@ -1,0 +1,1 @@
+(Nathan) Para hacer el mapa de Henon utilicé  en cierta medida el código de https://blbadger.github.io/henon-map.html
