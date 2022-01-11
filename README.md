@@ -1,7 +1,7 @@
 Proyecto_TDA
 ==============
 
-Finantial Crashes
+Financial Crashes
 -----------------
 
 ### Integrantes:
