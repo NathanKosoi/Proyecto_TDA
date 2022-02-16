@@ -4,7 +4,7 @@ Proyecto_TDA
 Financial Crashes
 -----------------
 
-### Integrantes:
+### Colaboladores:
 * [Areli Maldonado Martínez](https://github.com/Violetwine)
 * [Fernando López Balcazar](https://github.com/FernandoLopBa)
 * [Kosoi Lamont Nathan](https://github.com/NathanKosoi)
